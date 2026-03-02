@@ -1,9 +1,6 @@
 # 👨🏽‍💻 Oumar Ba — aka *Ghost’n’Bone*  
 ### Full-Stack Developer | Designer | Creative Technologist | Builder of Futures
 
-> “Je rêve d’un Sénégal numérique où chaque idée devient un projet,  
-> et chaque projet, une lumière dans la ville.” ✨
-
 ---
 
 ## 🌍 À propos de moi
@@ -11,10 +8,6 @@
 Je suis **Oumar Ba**, programmeur, designer et bâtisseur d’expériences digitales.  
 Entre **art, code et impact social**, j’explore les intersections entre la créativité et la technologie.  
 J’aime concevoir des solutions qui parlent à l’humain : belles, utiles, et porteuses de sens.
-
-Actuellement :
-- 👨🏽‍💼 **Développeur & Designer à la DGCH (Direction Générale de la Construction et de l’Habitat)**  
-- 🚀 Fondateur de **Bospa Group**, un écosystème créatif réunissant technologie, design et innovation
 
 ---
 
