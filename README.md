@@ -35,7 +35,7 @@ J’aime concevoir des solutions qui parlent à l’humain : belles, utiles, et 
 
 ## 🔗 Liens & Présence
 
-- 🌐 [bospa-group.com](https://www.bospagroup.com) *(à venir)*
+- 🌐 [oumar-ba.com](https://www.oumar-ba.com) *(site web)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/oumar-ba-webdev/)
 - 🕊️ [Instagram](https://instagram.com/ghostnbone)
 - 📧 **oumar.ba01@protonmail.com**
