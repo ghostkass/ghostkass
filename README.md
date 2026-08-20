@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Oumar%20Ba&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Ghost%27n%27Bone%20-%20Full-Stack%20Developer%20%26%20GovTech%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" width="100%"/>
+
+# Oumar Ba
+### aka Ghost'n'Bone — Full-Stack Developer & GovTech Builder
 
 <a href="https://www.oumar-ba.com"><img src="https://img.shields.io/badge/Portfolio-oumar--ba.com-0F2027?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/oumar-ba-webdev/"><img src="https://img.shields.io/badge/LinkedIn-Oumar_Ba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,10 +21,6 @@
 ## 🌍 À propos de moi
 
 Je suis **Oumar Ba**, développeur full-stack, designer et technologue créatif basé à **Dakar, Sénégal**.
-
-Je travaille aujourd'hui comme **Chargé de l'Informatique** à la Direction Générale de la Réglementation des Constructions et de l'Habitat (**DGRCH**), où je pilote la transformation numérique institutionnelle — du site vitrine aux plateformes internes de gestion documentaire.
-
-En parallèle, je conçois des **plateformes civiques et GovTech** pensées pour l'Afrique : participation citoyenne, gouvernance locale, initiatives présidentielles numériques, et outils qui rapprochent l'administration des citoyens.
 
 Entre **art, code et impact social**, j'explore les intersections entre créativité et technologie — avec la conviction que chaque projet numérique africain doit être pensé pour la souveraineté, pas seulement pour l'usage.
 
@@ -48,17 +47,6 @@ Entre **art, code et impact social**, j'explore les intersections entre créativ
 
 ---
 
-## 🚀 Projets & initiatives
-
-- 🏛️ **DGRCH — GED & Site institutionnel** — Plateforme de gestion électronique de documents (React/TypeScript) et modernisation de la présence numérique de la direction.
-- 🏆 **SunuChampions** — Initiative Présidentielle sénégalaise : lead back-end sur une architecture complète (Node.js, Prisma, RBAC, API, CI/CD).
-- 🏘️ **Plateforme civique — Commune de Jaxaay-Parcelles** — Gouvernance locale participative : signalement citoyen, annonces, emploi, back-office municipal.
-- 🤖 **NEXUS** — Agence IA en single-page app (glassmorphism) avec neuf agents interactifs propulsés par l'API Claude.
-- 🥊 **Laamb Platform** — Concept de plateforme dédiée à la lutte sénégalaise, données réelles de lutteurs, architecture Supabase.
-- ✍️ **Bâtir le numérique en Afrique** — Essai littéraire en cours d'écriture sur la souveraineté numérique africaine, dans la tradition des intellectuels engagés.
-
----
-
 ## ✨ Valeurs
 
 <table>
@@ -69,19 +57,6 @@ Entre **art, code et impact social**, j'explore les intersections entre créativ
 <td align="center" width="25%">🕊️<br/><b>Spiritualité</b><br/><sub>Que chaque ligne de code serve un dessein plus grand</sub></td>
 </tr>
 </table>
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ghostkass&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=8B89CC" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostkass&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2C5364" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=ghostkass&theme=tokyonight&hide_border=true&background=0F2027&ring=2C5364&fire=8B89CC" />
-</div>
 
 ---
 
