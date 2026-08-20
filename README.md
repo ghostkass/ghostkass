@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Oumar%20Ba&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Ghost'n'Bone%20—%20Full-Stack%20Developer%20%26%20GovTech%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Oumar%20Ba&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Ghost%27n%27Bone%20-%20Full-Stack%20Developer%20%26%20GovTech%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://www.oumar-ba.com"><img src="https://img.shields.io/badge/🌐_Portfolio-oumar--ba.com-0F2027?style=for-the-badge" /></a>
+<a href="https://www.oumar-ba.com"><img src="https://img.shields.io/badge/Portfolio-oumar--ba.com-0F2027?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/oumar-ba-webdev/"><img src="https://img.shields.io/badge/LinkedIn-Oumar_Ba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/ghostnbone"><img src="https://img.shields.io/badge/Instagram-@ghostnbone-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:oumar.ba01@protonmail.com"><img src="https://img.shields.io/badge/Email-oumar.ba01@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://instagram.com/ghostnbone"><img src="https://img.shields.io/badge/Instagram-%40ghostnbone-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:oumar.ba01@protonmail.com"><img src="https://img.shields.io/badge/Email-oumar.ba01%40protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Code+%2B+Design+%2B+Impact+social;B%C3%A2tisseur+de+plateformes+GovTech;L'Afrique+ne+suit+pas+le+futur+%E2%80%94+elle+le+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Code+%2B+Design+%2B+Impact+social;Batisseur+de+plateformes+GovTech;L%27Afrique+ne+suit+pas+le+futur+-+elle+le+code." alt="Typing SVG" />
 
 </div>
 
